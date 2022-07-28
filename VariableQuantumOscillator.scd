@@ -5,7 +5,6 @@
 /////////////////////////////////////////////////
 
 
-/*
 
 //This code is necessary to run this program on the Virginia Tech Cube System. 
 (
@@ -25,7 +24,7 @@ s.boot;
 
 //Important! This gives you GUI control of the system (e.g. volume)
 s.makeGui;
-*/
+
 
 (
 //f is the tensor product operator
